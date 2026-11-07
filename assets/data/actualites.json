@@ -1,5 +1,14 @@
 [
   {
+  "id": 10,
+  "titre": "Travaux d'étanchéité autour de socle panneau solaire, STT Tamatave",
+  "date": "2026-11-05",
+  "categorie": "Réhabilitation",
+  "image": "assets/images/actualites/socle_stt.webp",
+  "extrait": "Intervention technique menée en collaboration avec Mada GREEN POWER pour les travaux d'étanchéité autour des socles de panneaux solaires sur le site STT Tamatave.",
+  "contenu": "L'équipe technique de RZ a réalisé des travaux d'étanchéité autour des socles de panneaux solaires sur le site stratégique STT de Tamatave, en étroite collaboration avec Mada GREEN POWER. Cette intervention assure la protection des installations solaires et garantit l'intégrité de la structure face aux conditions climatiques.\n\nCe projet témoigne de notre engagement à fournir des solutions techniques fiables et durables pour nos partenaires."
+  },
+  {
     "id": 9,
     "titre": "Aménagement extérieur MSC1 Mahajunga",
     "date": "2026-10-09",
